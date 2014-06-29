@@ -369,6 +369,15 @@ section.features{
 	background-color: rgba(33,44,47,0.78);
 }
 
+section.features div.feature{
+	margin-top: 20px;
+}
+
+section.features div.feature .inside{
+	height: 200px;
+	background-color: #6a6a6a;
+}
+
 /* @end */
 
 /* @group Screenshots */
