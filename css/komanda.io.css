@@ -381,7 +381,6 @@ section.features div.feature{
 }
 
 section.features div.feature .inside{
-	height: 350px;
 	margin-bottom: 20px;
 }
 
@@ -415,6 +414,10 @@ border-radius: 100px;
 
 section.features div.feature .inside .title .icon-holder i{
 	line-height: 110px;
+}
+
+section.features div.feature .inside .title .icon-holder i.fa{
+	line-height: 98px;	
 }
 
 /* @end */
