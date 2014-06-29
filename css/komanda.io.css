@@ -231,6 +231,15 @@ html, body{
 	float: left;
 }
 
+#header .header-logo a{
+	color: #fff;
+	font-weight: normal;
+	font-style: normal;
+	text-decoration: none;
+	font-variant: normal;
+	font-weight: 300;
+}
+
 #header .header-logo img{
 	float: left;
 	margin-right: 10px;
