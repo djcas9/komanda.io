@@ -216,7 +216,7 @@ html, body{
 
 #header{
 	height: 80px;
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0,0,0,0.5);
 }
 
 #header .header-logo{
